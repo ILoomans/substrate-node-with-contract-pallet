@@ -1,0 +1,6 @@
+Secret phrase `eagle zero genius during note estate flee warfare captain column idea guide` is account:
+  Secret seed:       0x1ac816ee55aade101360a8cd72e024a77af431646e7172bc46bfb6dd5b312a71
+  Public key (hex):  0x3a38415cda09e85d63c05a262be68360d347f524b1a8021d96c50b5d14b9fe3a
+  Public key (SS58): 5DP3M1WNmkU1Dz2Fze7zCgxoP8MUdZM81GDUByU5UKuMveb3
+  Account ID:        0x3a38415cda09e85d63c05a262be68360d347f524b1a8021d96c50b5d14b9fe3a
+  SS58 Address:      5DP3M1WNmkU1Dz2Fze7zCgxoP8MUdZM81GDUByU5UKuMveb3
