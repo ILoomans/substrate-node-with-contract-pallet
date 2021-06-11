@@ -1,0 +1,12 @@
+{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method":"author_insertKey",
+    "params": [
+      "aura",
+      "always velvet maze river wire debate scare nasty bulb high extend quarter",
+      "0x7a302ad9c39470f0fa1e36e20f370002f7ddf363dbc73f29433af7f0e0d95c1f"
+    ]
+  }
+  
+  

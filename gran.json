@@ -1,0 +1,11 @@
+{
+  "jsonrpc":"2.0",
+  "id":1,
+  "method":"author_insertKey",
+  "params": [
+    "gran",
+    "vintage color breeze topple buffalo head first shuffle habit skill cruise siren",
+    "0x0fa0a9846f8b59d90dbd3c196135e37a7551381d1fc7662eed013d24ce789a83"
+  ]
+}
+

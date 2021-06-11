@@ -20,8 +20,7 @@
           "5F1CFZp8gBzzSrsDYANkK6jYkYTNgJWYXWinrvkgH12f2ttL",
           "5Epv1QUriSikK2hAGcrbza4cidTJvBsS5wcf94WvtnXDUDLU",
           "5DccvHFDEMuvjoLHYdgTNFrRPM6gsiVbsQyycbwddAjCQNHc",
-          "5EhGZinUZaautbj1h3EGwxCmTjXvAw6jpvBrMUEWF3CLc9rL",
-          "5DqGEskbwo4J27b6TNt1Rs9AkjvbojjYwgrQZHfktXXvG4Bn"
+          "5EhGZinUZaautbj1h3EGwxCmTjXvAw6jpvBrMUEWF3CLc9rL"
         ]
       },
       "palletGrandpa": {
@@ -45,11 +44,8 @@
           [
             "5GA2w4schJZaSWpgRCByWkPj4pouNVXBdSYMAB6b1EJ95Rpf",
             1
-          ],
-          [
-            "5H62s7v1H98ipSgnXv7y1nYPQmjdd48W5cxcCVCcNw7vpM75",
-            1
           ]
+        
         ]
       },
       "palletBalances": {

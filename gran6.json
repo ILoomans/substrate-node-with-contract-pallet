@@ -1,0 +1,11 @@
+{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method":"author_insertKey",
+    "params": [
+      "gran",
+      "raw indicate sunny foam wait call injury fantasy wheat dust repair cushion",
+      "0xde3066082c939d7c1baa63b67aa724c282ee5fd0dbd0fef72061c77fbe7d1cc8"
+    ]
+  }
+  

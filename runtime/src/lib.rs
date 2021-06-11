@@ -334,6 +334,13 @@ impl pallet_template::Config for Runtime {
 	type Event = Event;
 }
 
+impl pallet_utility::Config for Runtime {
+	type Event = Event;
+	type Call = Call;
+	type WeightInfo = pallet_utility::weights::SubstrateWeight<Runtime>;
+	
+}
+
 // Create the runtime by composing the FRAME pallets that were previously configured.
 construct_runtime!(
 	pub enum Runtime where
@@ -352,6 +359,9 @@ construct_runtime!(
 		// Include the custom logic from the pallet-template in the runtime.
 		TemplateModule: pallet_template::{Module, Call, Storage, Event<T>},
 		Contracts: pallet_contracts::{Module, Call, Config<T>, Storage, Event<T>},
+		Utility: pallet_utility::{Module,Call,Event},
+
+		// Utility: pallet_utility::{Pallet, Call, Event<T>},
 
 	}
 );

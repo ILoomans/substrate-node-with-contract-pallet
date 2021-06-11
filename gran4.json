@@ -1,0 +1,11 @@
+{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method":"author_insertKey",
+    "params": [
+      "gran",
+      "walk gaze pepper trigger estate rubber potato claim inject buffalo observe climb",
+      "0xfcafe82722bcc1df489cc50f70be7e5c83d882b36fe5fb838bb7f96c37c0796c"
+    ]
+  }
+  

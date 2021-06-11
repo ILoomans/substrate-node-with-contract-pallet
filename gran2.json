@@ -1,0 +1,10 @@
+{
+  "jsonrpc":"2.0",
+  "id":1,
+  "method":"author_insertKey",
+  "params": [
+    "gran",
+    "glory scare pull canoe leisure friend feature rail sauce casino green lunar",
+    "0xf837c4312b53de9c9e532bb9ebcca0eea2c2d663e34db50c75053c9c37a07efd"
+  ]
+}

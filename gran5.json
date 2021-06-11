@@ -1,0 +1,11 @@
+{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method":"author_insertKey",
+    "params": [
+      "gran",
+      "lemon half couch saddle cancel ginger fly opera oppose exit clip pattern",
+      "0xb50160372f2c5568803402b2d60e395fdd1c425441e43706210944f1d4b7c199"
+    ]
+  }
+  
